@@ -1,0 +1,7 @@
+<svg viewBox="0 0 24 24" width="48" height="48" fill="none">
+  <!-- Vertical bar on the right -->
+  <path d="M20 4V20" stroke="#000000" stroke-width="2" stroke-linecap="butt" />
+
+  <!-- Right-pointing triangle -->
+  <path d="M8 5L16 12L8 19V5Z" stroke="#000000" stroke-width="2" stroke-linejoin="miter" fill="none"/>
+</svg>
